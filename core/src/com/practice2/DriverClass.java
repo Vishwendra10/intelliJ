@@ -24,6 +24,10 @@ public class DriverClass {
 //         B b = (B) a;
 //         b.m1();
 
+// 1) relation btw (B) and a ---compile time
+// 2) relation btw (B) and B --- compile time
+// 3) relation btw run time (B) and a ---run time
+
 //        A b= new B();
 //        b.m1();
 
